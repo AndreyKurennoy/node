@@ -1,4 +1,4 @@
-# Golang distribured nodes implementation
+# Golang distributed nodes implementation
 
 ## Getting started
 You'll need to set up the first node
